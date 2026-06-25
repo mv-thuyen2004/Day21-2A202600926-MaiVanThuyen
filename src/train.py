@@ -72,7 +72,7 @@ def train(
         os.makedirs("models", exist_ok=True)
         joblib.dump(model, "models/model.pkl")
 
-    # TODO 10: Tra ve acc
+    # TODO 10: Tra ve accc
     return acc
 
 
