@@ -58,7 +58,7 @@ def train(
         mlflow.log_metric("f1_score", f1)
         mlflow.sklearn.log_model(model, "model")
 
-        # TODO 7: In ket qua ra man hinhh
+        # TODO 7: In ket qua ra man hinh
         print(f"Accuracy: {acc:.4f} | F1: {f1:.4f}")
 
         # TODO 8: Luu metrics ra file outputs/metrics.json
