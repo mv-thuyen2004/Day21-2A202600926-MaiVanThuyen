@@ -1,0 +1,5 @@
+# Thư mục chứa các ảnh chụp màn hình kết quả nộp bài:
+# 1. mlflow_ui.png (MLflow UI tối thiểu 3 thí nghiệm)
+# 2. github_actions_green.png (Pipeline chạy xanh cả 4 jobs)
+# 3. api_health_predict.png (Kết quả gọi curl endpoint /health và /predict)
+# 4. cloud_storage_console.png (Mô hình và dữ liệu trên GCS console)
